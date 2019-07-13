@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. :heart:
+2. :blush:
+3. :confused:
